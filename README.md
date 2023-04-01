@@ -10,5 +10,5 @@ In this project, our team will train an ensemble model to predict rainfall and c
 ## Data 
 We will be using the [Daily rainfall over NSW Australia dataset](https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681). 
 
-# License 
+## License 
 This project is licensed under the the terms of the [MIT License](https://github.com/UBC-MDS/DSCI-525-Group-17/blob/main/LICENSE).
